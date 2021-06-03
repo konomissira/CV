@@ -1,29 +1,30 @@
 # CV
 # Mahamadou Camara
-I'm a developer, with a background as a......
+Creative web developer with hands-on experience building and optimizing performance of user-centric, high-impact websites. Adept at leveraging technical, analytical, and problem-solving skills to create dynamic, high-speed websites, apps and platforms that fuel competitive advantage and revenue growth. Proficient in improving end-user experience by liaising with key stakeholders, identifying bottlenecks, and building improvements. Instrumental in optimizing applications for maximum speed by maintaining code on a routine basis and debugging issues.
 
-I enjoy building digital products that either solve problems or entertain people. Preferrably in Javascript or Python.
 
-I'm self driven, hard working and easy going. I also hold a bachelors degree in economics.
+I'm self driven, hard working and easy going.
 
-## Experience:
-### Founders & Coders (2015)
-......
+## Career Experience:
+Freelance: https://www.cacvocela.com 
+2020
+Web Design | Wordpress Developer
+Provided top-notch services to clients while answering variety of queries, such as buying a domain name on www.ovh.com. Improved overall look, functionality, and usability of the websites with an aim to deliver best experience to the end-user.
 
-### Propell (2012 - 2014)
-....
-### Mikrojobb (2011)
-.......
+Saved time as well as offered flexibility by installing plugins, such as Wordfence Security, Elementor, and contact-form7.
 
-## Projects I've coded:
-### Keyword King
-A webapp that instantly shows you your app's underperforming keywords in the App Store.
+Freelance: https://www.kono-dev.com/projets/myshoes 
+2019
+Web Design | Wordpress Developer
+Utilized php MySQL to set up wordpress. Developed effective and easy-to-use websites while overseeing technical aspects, such as site speed, traffic handling, and site content creation, requiring technical features. Installed wordpress plugins, such as wordfence security, woocommerce, mailchimp, contact form7.
 
-### Squish
-A service for students to help them remember and repeat their notes.
+Ureaf	
+2018
+Web Design | Web Developer
+In consecutive roles, led the ongoing design and maintenance of new/existing websites as well as designed landing pages with a focus on meeting clients’ requirements. Collaborated with programmers and customers and drive the entire designing process from conception to execution. Operated MySQL and SQL to manage database.
+Conducted in-depth analysis and fixed issues encountered in the functioning of the website.
+Eliminated communication barriers and engaged with designers, programmers, and clients to ensure uninterrupted flow of all processes.
 
-Stupid Machine
-A machine learning tutorial on how to do image recognicion using Scikit Learn.
 
 ## Technical skills:
 
@@ -35,18 +36,22 @@ A machine learning tutorial on how to do image recognicion using Scikit Learn.
 **Front-end:**
 
 * HTML
-* CSS & Sass
-* Jade
+* CSS & CSS-Grid & Flex-box
 * jQuery
 * Bootstrap
 * React JS
-* D3.js
 
 **Back-end:**
 
+* MySQL
 * MongoDB
 * Node JS
-* Hapi
+
+**Network System:**
+
+* GitHub
+* Git
+
 
 **Machine Learning / Data Science:**
 
@@ -54,4 +59,5 @@ A machine learning tutorial on how to do image recognicion using Scikit Learn.
 * Matplotlib
 
 **Testing:**
+
 
